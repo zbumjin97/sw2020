@@ -1,4 +1,5 @@
 ## 교과목형
+- [STAT452003 수치해석](https://github.com/zbumjin97/20202_Numerical_Analysis) / 2020년 2학기 / 박순용
 - [COMP312001 운영체제](https://github.com/zbumjin97/20201_Operating_Systems) / 2020년 1학기 / 서대화
 - [COME331002 자료구조](https://github.com/zbumjin97/20192_Data_Structure) / 2019년 2학기 / 김종화
 - [CLTR268002 파이선 프로그래밍](https://github.com/zbumjin97/2019S_Python_Programming) / 2019년 여름학기 / 정창수
